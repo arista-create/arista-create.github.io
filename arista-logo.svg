@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 560" role="img" aria-labelledby="title desc">
+  <title id="title">ARISTA Studio logo</title>
+  <desc id="desc">ARISTA Studio wordmark with an A and S monogram inside a rounded vertical frame.</desc>
+  <rect width="860" height="560" fill="#f7f7f5"/>
+  <text x="70" y="282" fill="#0f0e0c" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="400">Arista</text>
+  <text x="720" y="282" fill="#0f0e0c" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="400">studio</text>
+  <rect x="281" y="65" width="298" height="430" rx="149" fill="none" stroke="#0f0e0c" stroke-width="6"/>
+  <text x="430" y="320" text-anchor="middle" fill="#0f0e0c" font-family="Cormorant Garamond, Georgia, serif" font-size="250" font-weight="600">A</text>
+  <text x="430" y="422" text-anchor="middle" fill="#0f0e0c" font-family="Cormorant Garamond, Georgia, serif" font-size="225" font-weight="500">S</text>
+</svg>
